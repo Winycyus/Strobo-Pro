@@ -1,7 +1,7 @@
-💡 Strobo Pro - Console de Iluminação Virtual
+#💡 Strobo Pro - Console de Iluminação Virtual
 O Strobo Pro é um software de controle de iluminação virtual desenvolvido em Python, projetado especificamente para ambientes de eventos e igrejas que utilizam telões de LED ou projeções. Ele transforma a saída de vídeo em um strobo dinâmico e sincronizado, oferecendo uma alternativa acessível e altamente personalizável aos equipamentos de hardware tradicionais.
 
-🚀 Funcionalidades Principais
+#🚀 Funcionalidades Principais
 BPM Sync (Tap Tempo): Algoritmo que permite sincronizar os flashes com o ritmo da música em tempo real através de uma thread dedicada.
 
 Controle de Color Strobe: Paleta de cores integrada para adaptar o clima visual ao contexto do evento (Azul, Âmbar, Vermelho, etc.).
@@ -12,7 +12,7 @@ Overlay Universal: Sistema que detecta automaticamente todos os monitores conect
 
 Atalhos Rápidos: Mapeamento de teclado global (Hotkeys) para operações críticas como Blackout de segurança, Reset e Stop.
 
-🛠️ Especificações Técnicas
+#🛠️ Especificações Técnicas
 Linguagem: Python 3.12.
 
 Interface Gráfica: Tkinter (Customizada em Dark Mode Amarelo/Preto).
@@ -23,7 +23,7 @@ Manipulação de Hardware: Integração com pynput para captura de eventos de te
 
 Distribuição: Compilado via PyInstaller com suporte a caminhos de recursos dinâmicos (_MEIPASS) para portabilidade em executável único.
 
-📖 Como Usar
+#📖 Como Usar
 Baixe o executável na aba Releases.
 
 Execute o strobo.exe como Administrador.
