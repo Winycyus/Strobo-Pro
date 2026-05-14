@@ -6,7 +6,8 @@
 O **Strobo Pro** é um software de controle de iluminação virtual projetado para transformar telões de LED e projetores em dispositivos de strobo dinâmicos. Desenvolvido para suprir demandas de eventos e cultos, ele oferece uma alternativa de baixo custo com recursos profissionais de sincronização rítmica.
 
 ## 🚀 Funcionalidades Principais
-<img width="1366" height="704" alt="image" src="https://github.com/user-attachments/assets/1057b02d-ec10-409f-b3e1-01d4ef896efc" />
+<img width="1366" height="727" alt="image" src="https://github.com/user-attachments/assets/d59ffbaf-e120-49d2-9816-64fb2cd69096" />
+
 
 
 *   **BPM Sync (Tap Tempo):** Algoritmo de precisão para sincronizar flashes com o bumbo da música em tempo real via thread dedicada.
